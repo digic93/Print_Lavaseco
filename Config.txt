@@ -1,0 +1,5 @@
+1
+2,3
+Generic / Text Only
+50
+http://localhost:8000/api/print
